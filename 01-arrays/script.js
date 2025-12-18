@@ -50,7 +50,7 @@ else {
 }
 
 const isTeachersEmpty = isTeachersEmptyResponse;
-console.log(isTeachersEmpty);
+console.log("L'elenco degli insegnanti è vuoto?", isTeachersEmpty);
 
  
 
