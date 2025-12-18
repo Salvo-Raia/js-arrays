@@ -33,7 +33,16 @@ console.table(teachers);
 
 // 4. Verifica se 'Fabio' è presente nell'array teachers
 // e salva il risultato nella variabile isFabioPresent
-const isFabioPresent = null;
+const teacher = "Fabio";
+let teacherFound; 
 
+for (i = 0; i < teachers.length; i++)
+  if (teacher === teachers[i]) {
+    teacherPresent = true;
+  }
+
+  const isFabioPresent = teacherPresent;
+  console.log("Fabio è presente?", teacherPresent);
+  
 // 5. Unisci tutti gli insegnanti nell'array teachers in una stringa  separata da virgole e salvala nella variabile teachersString
 const teachersString = null;
