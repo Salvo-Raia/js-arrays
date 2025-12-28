@@ -24,13 +24,12 @@ const firstTeacher = teachers.shift()
 // 5. Aggiungi un insegnante di nome 'Vanessa' alla fine dell'array teachers
 teachers.push("Vanessa");
 
-
 // 6. Aggiungi un insegnante di nome 'Sarah' all'inizio dell'array teachers
 teachers.unshift("Sarah");
 
 // 7. Trova l'indice dell'insegnante 'Lewis' nell'array teachers
 // e salvalo nella variabile lewisIndex
-console.log(teachers.indexOf("Lewis"));
+console.log("L'indice di Lewis nella nostra lista è", teachers.indexOf("Lewis"));
 const lewisIndex = 5;
 
 // 8. Verifica se l'array teachers è vuoto
@@ -40,9 +39,7 @@ let isTeachersEmptyResponse;
 if (teachers.length < 1) {
   isTeachersEmptyResponse = true;
   console.log("L'array è vuoto perché contiene", teachers.length, "nomi")
-}
-
-else {
+} else {
   isTeachersEmptyResponse = false;
   console.log("L'array non è vuoto perché contiene", teachers.length, "nomi")
 }
