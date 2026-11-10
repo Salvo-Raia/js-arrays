@@ -1,14 +1,49 @@
-# Esercizio: Arrays
-Nome repo: `js-arrays`
+![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
 
-## Consegna
-Partendo dal codice fornito, svolgere tutte le task richieste in ognuno degli script presenti.
-Utilizzate i devtools e console.log per verificare il risultato.
+# 🎓 Exercise 17/50 - JavaScript Arrays
 
-**Bonus**
+## 📌 Project Overview
 
-Nel codice sorgente ci sono alcuni script con task bonus che potete svolgere se finite in anticipo l’esercizio base!
+| Property | Details |
+|:--|:--|
+| Repository | js-arrays |
+| Category | Boolean Tech Academy |
+| Type | Exercise |
+| Exercise | 17/50 |
 
-**Nota importante:**
+## 🎯 Assignment
 
-Se provate a cercare online per aiutarvi nella risoluzione degli esercizi potreste incappare in vari metodi come `map`, `filter`, `includes` e tanti altri. Non usateli in questa fase, li studieremo più avanti! Per oggi cercate di risolvere tutto aiutandovi col ciclo `for`. Una volta padroneggiato questo costrutto di base, sarete pronti per “facilitarvi la vita” con gli altri metodi 😉 
+Starting from the provided source code, complete all the tasks required in each of the available JavaScript files.
+
+Use browser DevTools and `console.log()` to check and verify your results.
+
+### ⭐ Bonus
+
+Some of the source files also contain bonus tasks. These are optional challenges you can tackle if you finish the main exercises ahead of time.
+
+### ⚠️ Important Note
+
+When searching online for help with the exercises, you may come across various JavaScript array methods such as `map()`, `filter()`, `includes()`, and many others.
+
+**Do not use these methods at this stage!** They will be covered later in the course.
+
+For now, try to solve all the exercises using the `for` loop.
+
+Once you have mastered this fundamental construct, you will be ready to make your life easier with the other methods!
+
+## 🛠️ Technologies
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+## 💡 What I Learned
+
+- Creating and working with JavaScript arrays.
+- Accessing and manipulating array elements.
+- Iterating through arrays using `for` loops.
+- Using indexes to navigate array elements.
+- Applying loops to solve problems involving collections of data.
+- Practicing problem-solving without relying on built-in array methods.
+
+## ©️ Credits
+
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
