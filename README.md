@@ -1,6 +1,8 @@
-![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 17/50 - JavaScript Arrays
+# 🎓 Exercise 17/50: JavaScript Arrays
+
+A JavaScript exercise focused on creating, accessing, and manipulating arrays, using for loops to iterate through collections and solve problems without built-in array methods.
 
 ## 📌 Project Overview
 
@@ -17,11 +19,7 @@ Starting from the provided source code, complete all the tasks required in each 
 
 Use browser DevTools and `console.log()` to check and verify your results.
 
-### ⭐ Bonus
-
-Some of the source files also contain bonus tasks. These are optional challenges you can tackle if you finish the main exercises ahead of time.
-
-### ⚠️ Important Note
+### 🔎 Notes
 
 When searching online for help with the exercises, you may come across various JavaScript array methods such as `map()`, `filter()`, `includes()`, and many others.
 
@@ -30,6 +28,10 @@ When searching online for help with the exercises, you may come across various J
 For now, try to solve all the exercises using the `for` loop.
 
 Once you have mastered this fundamental construct, you will be ready to make your life easier with the other methods!
+
+### ⭐ Bonus
+
+Some of the source files also contain bonus tasks. These are optional challenges you can tackle if you finish the main exercises ahead of time.
 
 ## 🛠️ Technologies
 
@@ -46,4 +48,4 @@ Once you have mastered this fundamental construct, you will be ready to make you
 
 ## ©️ Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
