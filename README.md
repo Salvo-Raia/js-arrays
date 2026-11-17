@@ -2,7 +2,7 @@
 
 # 🎓 Exercise 17/50: JavaScript Arrays
 
-A JavaScript exercise focused on creating, accessing, and manipulating arrays, using for loops to iterate through collections and solve problems without built-in array methods.
+Creating, accessing, and manipulating arrays, using for loops to iterate through collections and solve problems without built-in array methods.
 
 ## 📌 Project Overview
 
