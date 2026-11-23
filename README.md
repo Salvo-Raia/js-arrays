@@ -8,7 +8,7 @@ Creating, accessing, and manipulating arrays, using for loops to iterate through
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| js-arrays | JavaScript Arrays | Exercise | JavaScript, arrays & For loops | 17/50 |
+| js-arrays | JavaScript Arrays | Exercise | JavaScript, arrays, for loops | 17/50 |
 
 ## Assignment
 
